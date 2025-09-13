@@ -8,14 +8,6 @@
 ### Celebration Event - National Innovation Day
 
 #### Overall Info
-- **Quarter:** 1  
-- **Date:** Tuesday, October 15, 2024  
-- **Event:** National Innovation Day  
-- **Level:** Level 1 - Expert Talk  (Offline)
-- **Theme:** Innovation & Design  
-- **Date:** Wednesday, October 16, 2024  (5 Hours 30 minutes)
-- **Participants:** 127 (Students: 120, Faculty: 4 and External: 3
-- **Organiser:** Institute Council  
 
 | Quarter | Date (Main)             | Event                  | Level                     | Theme                | Date (Session)            | Duration        | Participants                     | Organiser         |
 |---------|--------------------------|------------------------|---------------------------|----------------------|---------------------------|-----------------|----------------------------------|------------------|
@@ -29,3 +21,4 @@ Bridge culture, creativity & innovation to spark new perspectives and entreprene
 TEDx Amrita inspired critical thinking, communication & problem-solving, equipping students to apply ideas to real-world challenges.
 
 #### Detailed Reports
+
