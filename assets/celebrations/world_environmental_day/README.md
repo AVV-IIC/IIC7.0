@@ -7,17 +7,13 @@
 ## IIC7.0 Reporting
 ### Celebration Event - World Environmental Day
 
+
 # Overall Info
 
-- **Quarter:** 4  
-- **Date Announced:** Thursday, June 5, 2025  
-- **Event:** World Environmental Day  
-- **Level:** Level 1 - Exposure Visit  
-- **Theme:** Innovation & Design (Offline)  
-- **Date Conducted:** Thursday, June 5, 2025 (2 Hours)  
-- **Participants:** -  
-- **Contact:** N/A  
-- **Organiser:** Institute Council  
+| Quarter | Date Announced | Event | Level | Theme | Date Conducted | Duration | Participants | Contact | Organiser |
+|---------|----------------|-------|-------|-------|----------------|----------|--------------|---------|-----------|
+| 4 | Thursday, June 5, 2025 | World Environmental Day | Level 1 - Exposure Visit | Innovation & Design (Offline) | Thursday, June 5, 2025 | 2 Hours | - | N/A | Institute Council |
+
 
 - Objective :
 Promote eco-awareness and innovation through creative poster making on ending plastic pollution.
