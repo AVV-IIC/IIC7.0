@@ -9,11 +9,6 @@
 
 #### Overall Info
 
-
-# Overall Info
-
-# Overall Info
-
 | Quarter | Date Announced | Event | Level | Theme | Date Conducted | Duration | Participants | Contact | Organiser |
 |---------|----------------|-------|-------|-------|----------------|----------|--------------|---------|-----------|
 | 2 | Sunday, January 12, 2025 | National Youth Day | Level 1 - Exposure Visit | Innovation & Design (Offline) | Tuesday, January 28, 2025 | 3 Hours 30 Minutes | 52 (Students: 50, Faculty: 2) | NSS | Student Council |
@@ -23,3 +18,4 @@
   
 - Benefits in terms of learning/skill/knowledge obtained :
    National Youth Day inspired leadership, service & unity, honoring youth achievers, NSS volunteers & ideals of great leaders for nation-building.
+
