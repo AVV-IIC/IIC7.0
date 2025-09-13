@@ -13,4 +13,8 @@
 |---------|----------------|-------|-------|-------|----------|----------------|--------------|-----------|
 | 1 | Monday, November 25, 2024 | National Entrepreneurship Day | Level 1 - Expert Talk (Offline) | Entrepreneurship & Startup | 1 Hour 30 Minutes | Wednesday, December 18, 2024 (1 Hour 30 Minutes) | 200 Students | Institute Council |
 
+- Objective :      
+  Introduce students to entrepreneurship, ACE, career paths, and innovation opportunities.
 
+- Skills/Lessons/Knwledge Gained :
+  Students gained insights on startups, networking, event management, funding, and innovation skills.
