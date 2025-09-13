@@ -8,7 +8,7 @@
 ### Celebration Event - World Environmental Day
 
 
-# Overall Info
+#### Overall Info
 
 | Quarter | Date Announced | Event | Level | Theme | Date Conducted | Duration | Participants | Contact | Organiser |
 |---------|----------------|-------|-------|-------|----------------|----------|--------------|---------|-----------|
@@ -20,3 +20,4 @@ Promote eco-awareness and innovation through creative poster making on ending pl
 
 - Benefits in terms of learning/skill/knowledge obtained :
 Boosts knowledge of sustainability, nurtures innovation, enhances creative skills, and spreads awareness on plastic-free living.
+
