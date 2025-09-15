@@ -5,7 +5,7 @@
 </p>
 
 ## IIC7.0 Reporting
-### Celebration Event -   National Nutritional Day 
+### Celebration Event -   National Nutrition Day 
 
 #### Overall Info
 
@@ -22,3 +22,4 @@
 - Benefits in terms of learning/skill/knowledge obtained :
 
 Enhances knowledge of diet & health, builds creative skills, fosters innovative lifestyle choices, and encourages student participation.
+
