@@ -11,7 +11,7 @@
 
 | Quarter | Date Announced | Event | Level | Theme | Duration | Date Conducted | Participants | Contact | Mode | Organiser |
 |---------|----------------|-------|-------|-------|----------|----------------|--------------|---------|------|-----------|
-| 3 | - | Live in Labs: Workshop | Level 4 - Workshop | Innovation & Design | 11 days | Monday, May 20, 2024 Offline Friday, May 31, 2024 | - | LILA – Saravanan Sir | - | Institute Council |
+| 3 | - | Live in Labs: Workshop | Level 4 - Workshop | Innovation & Design | 11 days | Monday, May 20, 2024 Friday, May 31, 2024 | Offline | LILA – Saravanan Sir | - | Institute Council |
 
 - **Objective** :  
   Bridging theory and practice, solving rural challenges through sustainable, community-driven solutions.  
