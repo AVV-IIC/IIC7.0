@@ -125,4 +125,4 @@ Total **94 participants** including students, faculty, and external experts.
 
 ---
 
-✍️ *Prepared by Office of Student Affairs & WiCyS Amrita Student Chapter (IIC 7.0 Report)*  
+
