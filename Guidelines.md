@@ -32,8 +32,8 @@
 |    | | ii. 20 Faculty IAs completed Basic & Advanced Training Online. | ![](https://img.shields.io/badge/-3%25-blue) | |
 |    | | iii. 10 Faculty IAs completed Reskilling & Upskilling Certificate. | ![](https://img.shields.io/badge/-3%25-blue) | |
 |    | | iv. 20 Active Faculty IAs submitted Expert Talks Reports. | ![](https://img.shields.io/badge/-3%25-blue) | |
-| 12 | Mentoring Linkage Support to ATL/SIC | i. Institute mapped & linked with up to 3 ATLs/SICs/DICE. | ![](https://img.shields.io/badge/-2%25-blue) |  ![](https://img.shields.io/badge/-1?%25-gold) |
-|    | | ii. Conducted Mentoring Activities with ATLs/SICs. | ![](https://img.shields.io/badge/-2%25-blue) | ![](https://img.shields.io/badge/-??%25-blue) |
+| 12 | Mentoring Linkage Support to ATL/SIC | i. Institute mapped & linked with up to 3 ATLs/SICs/DICE. | ![](https://img.shields.io/badge/-2%25-blue) |  ![](https://img.shields.io/badge/-TBD-gold) |
+|    | | ii. Conducted Mentoring Activities with ATLs/SICs. | ![](https://img.shields.io/badge/-2%25-blue) | ![](https://img.shields.io/badge/-TBD-gold) |
 | 13 | Active IP Commercialisation & Technology Transfer | i. Active IP submission in YUKTI IP Repository. | ![](https://img.shields.io/badge/-2%25-blue) | ![](https://img.shields.io/badge/-Not_Attained-red) |
 |    | | ii. IP submissions in YUKTI and KAPILA. | ![](https://img.shields.io/badge/-2%25-blue) | ![](https://img.shields.io/badge/-Not_Attained-red) |
-| 14 | Establishment of R&D Cell and Climate Cell | — |  | ![](https://img.shields.io/badge/-Attained-darkgreen) |  ![](https://img.shields.io/badge/-??%25-gold) |
+| 14 | Establishment of R&D Cell and Climate Cell | — |  | ![](https://img.shields.io/badge/-Attained-darkgreen) |  ![](https://img.shields.io/badge/-TBD-gold) |
