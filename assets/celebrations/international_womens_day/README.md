@@ -24,24 +24,9 @@
   - Recognition of women achievers across domains  
   - Awareness of cybersecurity and gender challenges  
   - Enhanced teamwork, quick thinking, and knowledge sharing  
-  - Inspiration through interaction with industry experts  
+  - Inspiration through interaction with industry experts   
 
 ---
-
-## 🌍 International Women’s Day 2025  
-**Amrita Vishwa Vidyapeetham | Celebrations Activity Report**  
-
----
-
-## 📌 Event Details  
-- **Activity Category:** Celebrations  
-- **Event Title:** International Women’s Day 2025  
-- **Date:** March 8, 2025  
-- **Theme/Occasion:** *International Women’s Day Celebrations*  
-- **Organized by:** Office of Student Affairs (OSA) & WiCyS Amrita Student Chapter, in collaboration with IIC  
-
----
-
 ## 📝 Overview  
 On **March 8, 2025**, Amrita Vishwa Vidyapeetham celebrated **International Women’s Day** with events that honored women’s achievements and promoted empowerment.  
 
@@ -121,8 +106,9 @@ Total **94 participants** including students, faculty, and external experts.
   - [Cyber Quiz](https://www.instagram.com/p/DHgwFbZT5Dw/?igsh=MWJqbm42OGNwNXRneQ==)  
 - 📸 **Instagram – amrita_officeofstudentaffairs:** [Post](https://www.instagram.com/p/DHS-uAmTlyM/?igsh=MmRyOTNsaTMxb29p)  
 - 🔗 **LinkedIn – Student Affairs Office:** [Women’s Day Highlights](https://www.linkedin.com/posts/students-affairs-office-a99103315_womensday-amritauniversity-celebratewomen-activity-7307344149140127744-v6GP)  
-- 📂 **GitHub Repository:** [International Women’s Day Assets](https://github.com/AVV-IIC/IIC7.0/tree/main/assets/celebrations/international_womens_day)  
+
 
 ---
+
 
 
