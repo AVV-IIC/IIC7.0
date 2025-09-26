@@ -5,7 +5,7 @@
 </p>
 
 ## IIC7.0 Reporting
-### Celebration Event - World Environmental Day
+### Celebration Event - Independence Day - Celebrating Aazadi Ka Amritkal 
 
 #### Overall Info
     
@@ -18,5 +18,6 @@
 Patriotism and unity by celebrating India’s journey and vision for Aazadi Ka Amritkal.
  
 - Benefits in terms of learning/skill/knowledge obtained :
+
 
 Inspires patriotism, deepens knowledge of India’s freedom, nurtures unity, civic values, and pride in cultural heritage.
