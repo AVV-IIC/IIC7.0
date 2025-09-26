@@ -93,4 +93,5 @@ The event successfully achieved its goals by fostering:
 
 ---
 
-✍️ *Prepared by Office of Student Affairs, Amrita Vishwa Vidyapeetham (IIC 7.0 Report)*  
+
+
