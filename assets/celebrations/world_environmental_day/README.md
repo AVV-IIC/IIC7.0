@@ -28,20 +28,6 @@
 
 ---
 
-## 🌍 World Environment Day 2025  
-**Amrita Vishwa Vidyapeetham | Celebrations Activity Report**  
-
----
-
-## 📌 Event Details  
-- **Activity Category:** Celebrations  
-- **Event Title:** World Environment Day  
-- **Date:** June 5, 2025  
-- **Theme/Occasion:** *Tree for Future* / *End Plastic Pollution*  
-- **Organized by:** Office of Student Affairs, Amrita Vishwa Vidyapeetham  
-
----
-
 ## 📝 Overview  
 World Environment Day was observed on **June 5, 2025**, at **Amrita Vishwa Vidyapeetham, Coimbatore campus** with a series of meaningful activities:  
 
@@ -89,9 +75,10 @@ The event successfully achieved its goals by fostering:
 - 🔗 **LinkedIn – Student Affairs Office:** [Saplings Planted](https://www.linkedin.com/posts/students-affairs-office-a99103315_tree-for-future-on-observation-of-world-activity-7341696278726123522-efHy/)  
 - 🔗 **LinkedIn – Student Affairs Office:** [Digital Posters](https://www.linkedin.com/posts/students-affairs-office-a99103315_on-the-observation-of-world-environment-day-activity-7341699259538239488-ycNO/)  
 - 📸 **Instagram – Student Affairs Office:** [Event Post](https://www.instagram.com/p/DKjbeJDT7ZH/?img_index=4&igsh=MWhlMmI5cjk4bmw2ag==)  
-- 📂 **GitHub Repository:** [World Environment Day Assets](https://github.com/AVV-IIC/IIC7.0/tree/main/assets/celebrations/world_environmental_day)  
+ 
 
 ---
+
 
 
 
