@@ -20,7 +20,7 @@
 | 4 | Institution's contribution to building the IIC Student Council | i. Completion of Student Council. | ![](https://img.shields.io/badge/-3%25-blue) | ![](https://img.shields.io/badge/-3%25-gold) |
 |   | | ii. Creation and activation of Student Convener. | ![](https://img.shields.io/badge/-3%25-blue) | ![](https://img.shields.io/badge/-3%25-gold) |
 |   | | iii. No. of student council members completed IA Training. | ![](https://img.shields.io/badge/-2%25-blue) | ![](https://img.shields.io/badge/-1.8%25-gold) |
-| 5 | Coordinator for Impact Lecture / Mentorship Support | — | ![](https://img.shields.io/badge/-8%25-blue) | |
+| 5 | Coordinator for Impact Lecture / Mentorship Support | — | ![](https://img.shields.io/badge/-8%25-blue) | ![](https://img.shields.io/badge/-8%25-gold) |
 | 6 | Hosting Mega Events (AICTE/MIC) | — | ![](https://img.shields.io/badge/-3%25-blue) | ![](https://img.shields.io/badge/-Not_Attained-red) |
 | 7 | Adoption of NISP | i. Formulated Institute Level I&E/IP/Incubation Policy. | ![](https://img.shields.io/badge/-3%25-blue) | ![](https://img.shields.io/badge/-Not_Attained-red) |
 |   | | ii. Implementation of Institute's I&E Policy. | ![](https://img.shields.io/badge/-3%25-blue) | ![](https://img.shields.io/badge/-Not_Attained-red) |
@@ -28,7 +28,7 @@
 | 9 | Collaboration with I&E Ecosystem Enablers | — | ![](https://img.shields.io/badge/-4%25-blue) | ![](https://img.shields.io/badge/-4%25-gold) |
 | 10 | Dedicated Infrastructure/Facility for I&E Support | i. Full-fledged functional Pre-Incubation and IPR/TTO facility in the Campus. | ![](https://img.shields.io/badge/-4%25-blue) |  ![](https://img.shields.io/badge/-4%25-gold) |
 |    | | ii. Full-fledged functional Incubation facility in the Campus. | ![](https://img.shields.io/badge/-6%25-blue) | ![](https://img.shields.io/badge/-6%25-gold) |
-| 11 | Trained Faculty Innovation Ambassadors | i. 40 faculty members nominated to undergo IA Training. | ![](https://img.shields.io/badge/-2%25-blue) | |
+| 11 | Trained Faculty Innovation Ambassadors | i. 40 faculty members nominated to undergo IA Training. | ![](https://img.shields.io/badge/-2%25-blue) | ![](https://img.shields.io/badge/-2%25-gold) |
 |    | | ii. 20 Faculty IAs completed Basic & Advanced Training Online. | ![](https://img.shields.io/badge/-3%25-blue) | ![](https://img.shields.io/badge/-Not_Attained-red) |
 |    | | iii. 10 Faculty IAs completed Reskilling & Upskilling Certificate. | ![](https://img.shields.io/badge/-3%25-blue) | ![](https://img.shields.io/badge/-Not_Attained-red) |
 |    | | iv. 20 Active Faculty IAs submitted Expert Talks Reports. | ![](https://img.shields.io/badge/-3%25-blue) | ![](https://img.shields.io/badge/-3%25-gold) |
