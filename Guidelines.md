@@ -36,4 +36,4 @@
 |    | | ii. Conducted Mentoring Activities with ATLs/SICs. | ![](https://img.shields.io/badge/-2%25-blue) | ![](https://img.shields.io/badge/-TBD-gold) |
 | 13 | Active IP Commercialisation & Technology Transfer | i. Active IP submission in YUKTI IP Repository. | ![](https://img.shields.io/badge/-2%25-blue) | ![](https://img.shields.io/badge/-Not_Attained-red) |
 |    | | ii. IP submissions in YUKTI and KAPILA. | ![](https://img.shields.io/badge/-2%25-blue) | ![](https://img.shields.io/badge/-Not_Attained-red) |
-| 14 | Establishment of R&D Cell and Climate Cell | — |  | ![](https://img.shields.io/badge/-Attained-darkgreen) |  ![](https://img.shields.io/badge/-TBD-gold) |
+| 14 | Establishment of R&D Cell and Climate Cell | — | ![](https://img.shields.io/badge/-TBD-gold) |  ![](https://img.shields.io/badge/-Attained-darkgreen) | 
