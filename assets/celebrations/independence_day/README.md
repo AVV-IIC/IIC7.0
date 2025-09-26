@@ -89,10 +89,10 @@ On **August 15, 2025**, Amrita Vishwa Vidyapeetham celebrated the **79th Indepen
 ## 📢 Publicity  
 
 - 📸 **Social Media & Campus News:**  
-  - Amrita Coimbatore Campus – Intranet News  
-  - The Kovai Herald  
-  - Facebook – Amrita Vishwa Vidyapeetham, Coimbatore Campus  
-  - Event photos and highlight reports available on campus platforms
+  - [Amrita Coimbatore Campus – Intranet News](https://intranet.cb.amrita.edu/events/2025/Viksit-Bharat-2047).
+  - [The Kovai Herald](https://thekovaiherald.co.in/79th-independence-day-celebrated-at-amrita-vishwa-vidhyapeetam).
+  - [Facebook – Amrita Vishwa Vidyapeetham, Coimbatore Campus](https://www.facebook.com/coimbatorecampus/posts/amrita-vishwa-vidyapeetham-coimbatore-campus-celebrated-the-79th-independence-da/1260493429206360).
 
 ---
+
 
