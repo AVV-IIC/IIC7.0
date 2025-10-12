@@ -5,16 +5,16 @@
 </p>
 
 ## IIC7.0 Reporting
-### Idea Showcase: Demo Day / Exhibition / Poster Presentation
+### Field / Exposure Visit to Pre-Incubation Units
 
 #### Overall Info
 
 | Quarter | Event | Level | Theme | Date Conducted | Duration | Mode | Organiser |
 |----------|--------|--------|--------|----------------|-----------|--------|-------------|
-| 2 | Idea Showcase: Demo Day/Exhibition/Poster Presentation of Ideas/PoC & linkage with Innovation Ambassadors/Experts for Mentorship Support | Level 1 - Expert Talk | Entrepreneurship & Startup | Thursday, February 20, 2025 | 2 Hours and 45 Minutes | Offline | Institute Council |
+| 2 | Field/Exposure Visit to Pre-incubation units such as AICTE Idea Lab, Fab Lab, Makers Space, Design Centers, City MSME clusters, workshops etc. | Level 1 - Exposure Visit | Entrepreneurship & Startup | Saturday, February 15, 2025 | 2 Hours and 45 Minutes | Offline | Institute Council |
 
 - **Objective :**  
-  Platform for showcasing student ideas/PoCs and connecting them with experts for mentorship.
+  Expose students to innovation ecosystems through visits to Idea Labs, Fab Labs, MSME clusters, etc.
 
 - **Benefits in terms of learning/skill/knowledge obtained :**  
-  Enhanced idea validation, presentation skills, and mentorship linkage for refining innovative projects.
+  Practical exposure to labs, MSME clusters, and resources; improved awareness of innovation ecosystems and prototyping tools.
