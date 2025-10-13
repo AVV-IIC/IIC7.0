@@ -7,7 +7,7 @@
 ## Guiding Framework for Incentive Parameters
 ![](https://img.shields.io/badge/-IIC7.0-gold) ![](https://img.shields.io/badge/Target-9.50--10.50-gold) 
 
-| S.No | Incentive Parameters | Sub-Components | Score Weightage | Achieved |
+| S.No | Incentive Parameters | Sub-Components | Score Weightage | Expected |
 |------|----------------------|----------------|:---------------:|:--------:|
 | 1 | Redemption of Reward Points Earned by the IIC (Upto 100 points) | Institute can redeem reward points earned by conducting over and above the prescribed limits of I&E Activities during the AY. | ![](https://img.shields.io/badge/-3%25-blue) |  ![](https://img.shields.io/badge/-3%25-gold) |
 | 2 | Creation and Building a Functional YUKTI - Innovation & IP Repository at the institute level | i. Scouted and Verified a minimum of 50 Ideas or PoCs during the AY. | ![](https://img.shields.io/badge/-5%25-blue) | |
